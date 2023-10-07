@@ -16,7 +16,7 @@ Sai Siva Krishna k	21BCE7859
 
 Features 🚀
 
-📶 Wireless Control: No more messy wires! Control the System wirelessly through mobile app we used blink app to acheiecve our project . 📱
+📶 Wireless Control: No more messy wires! Control the System wirelessly through mobile app we used blynk app to acheiecve our project . 📱
 
 🔦 LED Light: Illuminate dark corners with the built-in LED light. Perfect for secret missions in the dark! 💡
 
