@@ -1,7 +1,9 @@
 # Accident-Alert-System
 Accident Alert System:  ESP8266-based alert system  that uses an ADXL335 Accelerometer sensor to detect tilts in a vehicle whenever an incident occurs and then sends an SMS with a location to the desired Mobile Device via a GSM Module
 
-![image](https://github.com/Rishithakallurii/Accident-Alert-System/assets/143505036/47db7d5c-4f37-4684-890f-6e89bdfc0918)
+![image](https://github.com/Rishithakallurii/Accident-Alert-System/assets/143505036/8704898b-97c6-4f4e-8e7b-7cefc49bc8db)
+
+
 Introduction 🌟
 Welcome to the world of Accident Alert System 🎉 In this exciting project, we have created a wireless alert system. An accident alert system is a fascinating project that combines web technologies and C++ programming to create a versatile ESP8266-based alert system that detects accidents. The system uses a Wi-Fi and GSM module to deliver an alert message to the user's phone, which gives an interactive and dynamic experience. This repository contains the source code, schematics, and documentation for building and operating the Accident Alert System. 🕵️‍♂️ Now you can unleash your inner spy and explore your surroundings with this nifty little gadget! 🕵️‍♀️
 
